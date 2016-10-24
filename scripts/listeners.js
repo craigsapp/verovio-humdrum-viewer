@@ -16,7 +16,7 @@
 //
 
 document.addEventListener("DOMContentLoaded", function() {
-	downloadVerovioToolkit('http://verovio-script.humdrum.org/scripts/verovio-toolkit.js');
+	downloadVerovioToolkit('http://verovio-script.humdrum.org/scripts/verovio-toolkit-old.js');
 	setupAceEditor("input");
 
 	allowTabs();
